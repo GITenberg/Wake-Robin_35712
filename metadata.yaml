@@ -1,0 +1,31 @@
+_repo: Wake-Robin_35712
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35712-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Burroughs, John
+    birthdate: 1837
+    deathdate: 1921
+    gutenberg_agent_id: '1127'
+    url: http://www.gutenberg.org/2009/agents/1127
+    wikipedia: http://en.wikipedia.org/wiki/John_Burroughs
+description: ''
+gutenberg_issued: '2011-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35712'
+  lccn: '05021546'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Birds -- United States'
+- !lcsh 'Natural history -- Outdoor books'
+tableOfContents: The return of the birds -- In the hemlocks -- Adirondac -- Birds'-nests
+  -- Spring at the capital -- Birch browsings -- The bluebird -- The invitation.
+title: Wake-Robin
+url: http://www.gutenberg.org/ebooks/35712
